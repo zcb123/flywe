@@ -1,0 +1,42 @@
+Dependencies for Project 'RoboFlyDEMO', Target 'RoboFlyDEMO': (DO NOT MODIFY !)
+CompilerVersion: <unknown>
+F (.\USER\main.c)(0x5B889B2A)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I.\Drive\inc -I.\IMU -I.\CONTROL -I.\COMMUNICATE-I D:\work\fly-test\RoboFlyDEMO\RTE-I D:\work\fly-test\RoboFlyDEMO\RTE\Device\STM32F103C8-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (.\Drive\inc\main.h)(0x5B7ACDE6)
+F (.\USER\stm32f10x_it.c)(0x5B851CDD)()
+F (.\Drive\src\led.c)(0x67FF7301)()
+F (.\Drive\src\delay.c)(0x5B851C74)()
+F (.\Drive\src\usart.c)(0x5B851C74)()
+F (.\Drive\src\tim.c)(0x5B851CC0)()
+F (.\Drive\src\nvic.c)(0x5B851CC0)()
+F (.\Drive\src\exit.c)(0x5B851CC0)()
+F (.\Drive\src\iic.c)(0x67FE710A)()
+F (.\Drive\src\spi.c)(0x5B851CC0)()
+F (.\Drive\src\motor.c)(0x5B851CC0)()
+F (.\Drive\src\fbm320.c)(0x5B851CC0)()
+F (.\Drive\src\mpu6050.c)(0x5B851CC0)()
+F (.\Drive\src\flash.c)(0x5B851CC0)()
+F (.\Drive\src\power.c)(0x5B851CC0)()
+F (.\Drive\src\si24r1.c)(0x5B851CC0)()
+F (.\Drive\src\system.c)(0x67FF7326)()
+F (.\IMU\filter.c)(0x5B851CFE)()
+F (.\IMU\imu.c)(0x5B851CFE)()
+F (.\IMU\structconfig.h)(0x5B851CFD)()
+F (.\CONTROL\pid.c)(0x5B8523F8)()
+F (.\CONTROL\paramsave.c)(0x5B851BF4)()
+F (.\CONTROL\control.c)(0x5B8523F8)()
+F (.\CONTROL\altitude.c)(0x5B8523F8)()
+F (.\COMMUNICATE\ANO_DT.c)(0x67FE6C76)()
+F (.\COMMUNICATE\remotedata.c)(0x5B8523F8)()
+F (D:/Keil5/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/StdPeriph_Driver/src/misc.c)(0x61AD795E)()
+F (D:/Keil5/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/StdPeriph_Driver/src/stm32f10x_adc.c)(0x61AD795E)()
+F (D:/Keil5/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/StdPeriph_Driver/src/stm32f10x_exti.c)(0x61AD795E)()
+F (D:/Keil5/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/StdPeriph_Driver/src/stm32f10x_flash.c)(0x61AD795E)()
+F (D:/Keil5/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/StdPeriph_Driver/src/stm32f10x_gpio.c)(0x61AD795E)()
+F (D:/Keil5/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/StdPeriph_Driver/src/stm32f10x_rcc.c)(0x61AD795E)()
+F (D:/Keil5/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/StdPeriph_Driver/src/stm32f10x_spi.c)(0x61AD795E)()
+F (D:/Keil5/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/StdPeriph_Driver/src/stm32f10x_tim.c)(0x61AD795E)()
+F (D:/Keil5/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/StdPeriph_Driver/src/stm32f10x_usart.c)(0x61AD795E)()
+F (RTE/Device/STM32F103C8/RTE_Device.h)(0x57D24F70)()
+F (RTE/Device/STM32F103C8/startup_stm32f10x_md.s)(0x5825386C)()
+F (RTE/Device/STM32F103C8/stm32f10x_conf.h)(0x52F9EDD0)()
+F (RTE/Device/STM32F103C8/system_stm32f10x.c)(0x5825386C)()
